@@ -75,5 +75,7 @@ public class ThreadCheckArray implements Runnable
 				sd.setWinArray(winArray);
 			}	
 		}
+		//This is a comment for test for push from github
 	}
 }
+
