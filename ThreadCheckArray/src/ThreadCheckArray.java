@@ -76,6 +76,7 @@ public class ThreadCheckArray implements Runnable
 			}	
 		}
 		//This is a comment for test for push from github
+		//This is a second commit
 	}
 }
 
